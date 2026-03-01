@@ -1,2 +1,2 @@
-Day1: branch + push
+Hi (from branch B)
 Goal: master git
